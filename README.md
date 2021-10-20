@@ -12,7 +12,7 @@ git clone https://github.com/MaiconNunes315/Lampada.git
 
 👤 **Maicon Nunes**
 
-- Github: [@MaiconNunes315](https://github.com/MaiconNunes315
+- Github: [@MaiconNunes315](https://github.com/MaiconNunes315)
 - LinkedIn: [@Maicon Nunes](https://www.linkedin.com/in/maicon-nunes-978454110/)
 
 ## Show your support
